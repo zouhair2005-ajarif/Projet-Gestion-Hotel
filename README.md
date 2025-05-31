@@ -36,7 +36,7 @@ Elle offre les fonctionnalités suivantes :
    
 3. Lancez la création de la base de données avec la commande suivante :
    ```bash
-   pip install streamlit
+   python database.py
    
 5. Démarrez ensuite l’application Streamlit avec la commande :
    ```bash
@@ -44,7 +44,7 @@ Elle offre les fonctionnalités suivantes :
 
 ---
 
-🎥 ## Vidéo explicative
+## 🎥 Vidéo explicative
 Voici la vidéo qui explique en détail le fonctionnement de l'application Streamlit et la description de chaque partie de l'interface et du code.
 
 [👉 Cliquez ici pour voir la vidéo](lien-de-ta-video)
