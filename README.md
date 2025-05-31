@@ -47,7 +47,7 @@ Elle offre les fonctionnalités suivantes :
 ## 🎥 Vidéo explicative
 Voici la vidéo qui explique en détail le fonctionnement de l'application Streamlit et la description de chaque partie de l'interface et du code.
 
-[👉 Cliquez ici pour voir la vidéo](lien-de-ta-video)
+[👉 Cliquez ici pour voir la vidéo](https://drive.google.com/file/d/10aPxucxVJHfULS64lZd6_a3xyhzR4E9L/view?usp=sharing)
 
 ---
 
