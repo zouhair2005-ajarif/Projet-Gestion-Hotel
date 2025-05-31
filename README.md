@@ -32,13 +32,15 @@ Elle offre les fonctionnalités suivantes :
 
 2. Installez les dépendances nécessaires :
    ```bash
-   **pip install streamlit**
+   pip install streamlit
    
 3. Lancez la création de la base de données avec la commande suivante :
-   **pip install streamlit**
+   ```bash
+   pip install streamlit
    
 5. Démarrez ensuite l’application Streamlit avec la commande :
-   **streamlit run app.py**
+   ```bash
+   streamlit run app.py
 
 ---
 
@@ -52,5 +54,5 @@ Voici la vidéo qui explique en détail le fonctionnement de l'application Strea
 ##  Contact
 Pour plus d’informations, n’hésitez pas à me contacter à l’adresse mail suivante :
 
-    📩 zouhairajarif@gmail.com
+    zouhairajarif@gmail.com
 
